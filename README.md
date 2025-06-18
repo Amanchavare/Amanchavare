@@ -26,4 +26,4 @@ I have a strong foundation in core Java and backend technologies. In the future,
 ---
 
 🔗 [Check my repositories](#) to see my work in action.  
-📫 Let’s connect: [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/aman-chavare/)) 
+📫 Let’s connect: [LinkedIn](https://www.linkedin.com/in/aman-chavare/)
